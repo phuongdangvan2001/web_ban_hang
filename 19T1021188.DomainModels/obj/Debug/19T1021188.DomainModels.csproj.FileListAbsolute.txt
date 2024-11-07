@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\bin\Debug\19T1021188.DomainModels.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\bin\Debug\19T1021188.DomainModels.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\obj\Debug\19T1021188.DomainModels.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\obj\Debug\19T1021188.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\obj\Debug\19T1021188.DomainModels.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DomainModels\obj\Debug\19T1021188.DomainModels.pdb

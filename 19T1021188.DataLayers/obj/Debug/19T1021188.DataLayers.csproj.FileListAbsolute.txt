@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\bin\Debug\19T1021188.DataLayers.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\bin\Debug\19T1021188.DataLayers.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\bin\Debug\19T1021188.DomainModels.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\bin\Debug\19T1021188.DomainModels.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\obj\Debug\19T1021188.DataLayers.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\obj\Debug\19T1021188.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\obj\Debug\19T1021188.DataLayers.csproj.CopyComplete
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\obj\Debug\19T1021188.DataLayers.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.DataLayers\obj\Debug\19T1021188.DataLayers.pdb

@@ -1,0 +1,65 @@
+﻿@model _19T1021188.Web.Models.EmployeeSearchOutput
+@{
+    Layout = null;
+}
+
+<style>
+
+
+</style>
+<p style="margin-top:10px">
+    Có <strong>@Model.RowCount</strong> nhân viên trong tổng số <strong>@Model.pageCount</strong> trang
+</p>
+<div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="">
+            <tr class="p-3 mb-2 bg-primary text-white">
+                <th> Họ</th>
+                <th> Tên</th>
+                <th> Ngày sinh</th>
+                <th> Ảnh</th>
+                <th> Ghi chú</th>
+                <th> Email</th>
+                <th> Thao tác </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Data)
+            {
+                <tr>
+                    <td> @item.LastName</td>
+                    <td> @item.FirstName</td>
+                    <td> @item.BirthDate</td>
+                    <td> <img src=@item.Photo width="100" height="100" /></td>
+                    <td> @item.Notes</td>
+                    <td> @item.Email</td>
+                    <td class="text-right">
+                        <a href="~/Employee/Edit/@item.EmployeeID" class="btn btn-xs btn-primary">
+                            <i class="fa fa-edit"></i>
+                        </a>
+                        <a href="~/Employee/Delete/@item.EmployeeID" class="btn btn-xs btn-danger">
+                            <i class="fa fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+<div class="text-center">
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.pageCount; i++)
+        {
+            if (i == Model.Page)
+            {
+                <li class="active"><a href="#">@i</a></li>
+            }
+            else
+            {
+                <li><a href="javascript:;" onclick="doSearch(@i)">@i</a></li>
+            }
+        }
+    </ul>
+</div>
+

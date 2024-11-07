@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.BusinessLayers.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.BusinessLayers.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.DataLayers.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.DomainModels.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.DataLayers.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\bin\Debug\19T1021188.DomainModels.pdb
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\obj\Debug\19T1021188.BusinessLayers.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\obj\Debug\19T1021188.BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\obj\Debug\19T1021188.BusinessLayers.csproj.CopyComplete
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\obj\Debug\19T1021188.BusinessLayers.dll
+C:\Users\DELL\source\repos\19T1021188\19T1021188.BusinessLayers\obj\Debug\19T1021188.BusinessLayers.pdb
